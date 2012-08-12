@@ -1,0 +1,11 @@
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\bin\Debug\BindingValidation.exe
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\bin\Debug\BindingValidation.pdb
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\MainWindow.baml
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\MainWindow.g.cs
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\App.g.cs
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\BindingValidation_MarkupCompile.cache
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\BindingValidation.g.resources
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\BindingValidation.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\BindingValidation.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\BindingValidation.exe
+c:\users\thomas\documents\visual studio 2010\Projects\BindingValidation\BindingValidation\obj\x86\Debug\BindingValidation.pdb
